@@ -53,8 +53,7 @@ public class MenuItem {
                     "price=" + price +
                     ", description='" + description + '\'' +
                 ", category='" + category + '\'' +
-                ", isNew=" + isNew +
-                '}';
+                ", isNew=" + isNew +'}';
     }
 
     @Override
